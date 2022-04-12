@@ -1,0 +1,11 @@
+.container { 
+  background: #ffffff;
+  border: 1px solid #2d3947;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
